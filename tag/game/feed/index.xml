@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>game &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/game/feed/" rel="self" type="application/rss+xml" />
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 18 Oct 2021 05:03:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif</url>
+	<title>game &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Genshin Impact</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 15:10:48 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[gioithieu]]></category>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=159</guid>
+
+					<description><![CDATA[Genshin Impact là tựa game MMORPG thế giới mở đầu tiên từ cha đẻ của Honkai Impact 3 sẽ ra mắt cộng đồng game thủ, trong đó có cả Việt Nam vào năm 2020. Câu chuyện của Genshin Impact xảy ra tại Teyvat – một đại lục kỳ lạ nơi bảy<a class="moretag" href="https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/"> Đọc tiếp&#8230;</a>]]></description>
+		
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
